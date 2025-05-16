@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3 uid="uid://rxg7j7tu4y"]
+
+[ext_resource type="Script" uid="uid://bvk8weblj7b13" path="res://addons/dialogue_manager/dialogue_label.gd" id="1"]
+
+[node name="DialogueLabel" type="RichTextLabel"]
+size_flags_horizontal = 3
+size_flags_vertical = 4
+bbcode_enabled = true
+scroll_active = false
+meta_underlined = false
+script = ExtResource("1")
+__meta__ = {
+"_edit_use_anchors_": false
+}

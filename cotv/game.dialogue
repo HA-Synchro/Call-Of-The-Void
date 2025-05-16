@@ -1,0 +1,112 @@
+~ start
+(Sobbing in her bedroom) 
+Maryam: Why is my life such a misery? (to herself).
+Maryam: Everyone has a better life than me, I wish… I wish I was never born. It's all my father’s fault, He didn't care for me.
+Maryam: He should have cared for me…. Every girl loves her father except me. Its not my fault…. It's all his fault.
+Minahil(Who is secretly listening to you story comes in): Maryam you are crying on the same thing again?
+Maryam: I should…. It’s all his fault…. All of it is his fault.
+Minahil: Shut up! It might be his fault but you should grow up. Forget about it.
+
+(A smile flickers on Maryam’s face.)
+Maryam: You are right, I should sleep. Thanks sis.
+Minahil: I am glad, you are growing up. C:
+Maryam(Lays down on her bed): I know what I should do.
+(Maryam pretends to sleep and Minahil leaves the room.)
+...
+(Time passes and Maryam gets up)
+Maryam: It is 11:03 on the clock, I know exactly what to do. End this suffering once and for all.
+Maryam: It is not anyone’s fault but God’s. Why did he create me? Why did he make me go through all of it.
+Maryam: But….. I can fix all of it. All I need to do is find something to kill myself with.
+(Maryam gets of your bed, wear your crocs and go towards the mirror)
+Maryam: Tonight. Everyone will realize it. I just need a way to end this.
+- Go back to bed and sleep => sleep
+- Go to the kitchen to find a knife. => kitchen
+- Go to the basement and drink drain cleaner. => draincleaner
+
+do end_game()
+=> END
+
+~ sleep
+Maryam lies down on her bed and goes to sleep again.(Suddenly she hears clouds rumbling. Then there is thunder and she wakes up panting)
+Maryam: (Takes deep breaths). It is just….. Raining…. No need to be worried.
+- Get of your bed?
+	Maryam: This agony…. This pain…. It won’t let me even sleep. I gotta do something about myself.
+	Maryam: (A smile appears on her pale white face). Aha! The socket.
+	(She drags her half dead body around the floor and reach it)
+	Maryam: It's as if it is beckoning to me…. I can feel it…. The urge….. 
+	Maryam: (Opens her window and gets her hands wet.) That will do it.
+	=> sleepoptions
+
+~ sleepoptions
+- Electrocute yourself?
+	You put your frail finger in the socket. A chill walks down your spine. The raw energy flows through your body. You feel your chest tightening, your heart contracting. Your breath stops immediately. You grunt.
+	Maryam: (Sees the world darkening before her very eyes. The pain was unbearable but she would be free.)
+
+	(Suddenly you hear footsteps. Minahil rushes to see if you are safe, the door opens and she gives out a wild shriek.)
+	Minahil: MARYAM!!!!!!!!!!!
+	(She then rushes to turn off the main power supply of the home.)
+	(Your body falls down with a light thud, You hadn’t eaten well for days, your body was weaker than your mental conditions.)
+
+	Minahil: (Rushes to you and hugs you. She then cries.) WHY!!!!!!!!!!!!!!!!!
+	(But your soul had already left the body.)
+	(You were dead. Just like you wanted.)
+	(The screen darkens)
+
+	”No More pain, No more suffering for me”
+	do end_game()
+	=> END
+- Go back to bed
+	Maryam: It is now or never….
+	=> sleepoptions
+~ kitchen
+Maryam: The knife!...
+(She walks with an uneven gait and reaches the door. Click. The door opens and she quietly walks towards the kitchen, her head feels heavy.)
+Maryam:(In the kitchen) Opens the cupboard, pulls out a sharp knife.
+She then glances at it for a moment, all.of her pain can be ended by this one thing.
+Maryam: How beautiful are you! The solution to all of this….
+She then sees her reflection on the well polished blade.
+A weak girl with long hair and blue eyes.
+She then stabs herself in the chest. As she pulls the knife out, blood spurts out and she can't control her enjoyment. The knife was covered in blood.
+Mother:(Opens the door) Is everything okay?
+Maryam then realizes she doesn't have much time. She then brings the knife close to her throat and in one decisive motion she cuts herself. Blood bursts out and her body falls down. Her head hits the marble slab and it leaves a lovely red mark there.
+Mother: (Worried) What was… that sound?
+(She then rushes down the stairs)
+
+Mother: Mere Allah!....( She sees the lifeless body of the young girl, covered in blood.) Minahil! Minahil! Minahil! Come.. Down….
+
+(It was too much for the mother, she loses her consciousness and falls down.)
+
+(The screen darkens in front of you)
+
+”I am finally free… Free from all of this.”
+
+do end_game()
+=> END
+
+~ draincleaner
+Maryam: I think… I should die silently. Maybe in the basement, I can find something?
+(She moves her willow wind body and tiptoes through her room towards the basement.)
+(Minahil sees her, and secretly decides to follow her.)
+Maryam reaches the door, slowly opens it and then locks it as fast as she can.
+
+Minahil:(Knocks on the door) What are you doing Maryam?
+Maryam:(Whispers to herself) I don't need to tell her anything.
+You pull out the drain cleaner from the bottom of the stairs and open it.
+(A strange odour fills the room)
+Minahil: (Starts pounding on the door) Answer me… Maryam. Answer me….
+Maryam brings the bottle close to her lips and gulps down as much as she can drink.
+She then tries to place the bottle down but it falls down and the chemical spreads on the floor.
+
+Minahil: Khuda kei lye, Darwaza Kholo Maryam.
+
+You can feel your intestine burning, your mind foggening and your organs being damaged.
+Maryam cripples down, she cant feel her limbs anymore, the chemicals, they were making her go insane. She was already half mad but coupled with it, she lost the sense of reality.
+
+Maryam: I… am.. frrrrrr…
+Minahil:(Jerks the door violently as tears fall down her eyes) Maryam… Open…
+(Those were the last words she heard)
+
+”Should have done this a long time ago… But I am happy now… Finally happy.”
+
+do end_game()
+=> END

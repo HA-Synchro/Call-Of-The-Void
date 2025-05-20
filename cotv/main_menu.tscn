@@ -1,0 +1,49 @@
+[gd_scene load_steps=4 format=3 uid="uid://bhkebqx72co28"]
+
+[ext_resource type="Texture2D" uid="uid://dm0nttda6t7et" path="res://Images/halloween_background_with_blood_splatters_and_drips_1409.jpg" id="1_06t4h"]
+[ext_resource type="Script" uid="uid://cvpykukp04dd5" path="res://buttpns.gd" id="1_fu7sn"]
+[ext_resource type="FontFile" uid="uid://dvtw0s4l2i3r6" path="res://Fonts/Youmurdererbb-pwoK.otf" id="2_7vrkn"]
+
+[node name="MainMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_fu7sn")
+
+[node name="BG" type="Sprite2D" parent="."]
+position = Vector2(574.5, 323.5)
+scale = Vector2(0.2306, 0.182665)
+texture = ExtResource("1_06t4h")
+
+[node name="Title" type="Label" parent="."]
+layout_mode = 0
+offset_left = 341.0
+offset_top = 392.0
+offset_right = 837.0
+offset_bottom = 474.2
+theme_override_fonts/font = ExtResource("2_7vrkn")
+theme_override_font_sizes/font_size = 100
+text = "Call of the Void"
+
+[node name="Start" type="Button" parent="."]
+layout_mode = 0
+offset_left = 174.0
+offset_top = 537.0
+offset_right = 371.0
+offset_bottom = 582.0
+theme_override_fonts/font = ExtResource("2_7vrkn")
+theme_override_font_sizes/font_size = 50
+text = "Start"
+
+[node name="Quit" type="Button" parent="."]
+layout_mode = 0
+offset_left = 824.0
+offset_top = 544.0
+offset_right = 1021.0
+offset_bottom = 594.0
+theme_override_fonts/font = ExtResource("2_7vrkn")
+theme_override_font_sizes/font_size = 50
+text = "Quit"
